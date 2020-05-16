@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohan Srinidhi Acharya"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Mohan Srinidhi Acharya"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ social:
 
 # Site Author
 author:
-  name             : "Mohan"
+  name             : "Mohan Srinidhi Acharya"
   avatar           : "msa.png"
   bio              : "ECE Graduate Student at UCLA with interests in Deep Learning and Reinforcement Learning"
   location         : "Los Angeles"
