@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming graduate student in Electrical and Computer Engineering at [Henry Samueli School of Electrical and Computer Engineering](https://www.ee.ucla.edu/), University of California Los Angeles. My research interests lie in Deep Unsupervised Learning and Reinforcement Learning. I have worked on problems in Vision, Speech and Healthcare for Machine Learning. Previously, I receieved an undergraduate degree in Electronics and Communication Engineering from [The National Institute of Engineering](https://www.nie.ac.in/).
 
-In the past, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
+During my undergraduate studies, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
 
 A data-driven personal website
 ======
