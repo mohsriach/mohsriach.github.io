@@ -47,6 +47,7 @@ My interests are not limited to the above and I'm open to learning/opportunities
 Projects
 ------
 1.  Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage.jpg'>
+
 Investigated effects of hyperparameter tuning and change in image quality due to number of scales. <br/><img src='/images/collage3.jpg'>
 
 
