@@ -38,6 +38,7 @@ My research interests are broadly in Deep Learning and Reinforcement Learning. I
 3. Actor-Critic methods in RL and its connection to GANs
 4. Inverse RL 
 5. Imitation Learning. 
+
 Two questions that always intrigue me are : 
 a) Can machines intentionally make mistakes and incur no penalty? (When I lose a bet, I punch my fist at the wall, but ensure I don't hurt myself.) which explains the no penalty part. 
 b) If the answer to a) is YES, is dumbness a subset of intelligence? 
