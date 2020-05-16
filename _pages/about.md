@@ -14,7 +14,7 @@ During my undergraduate studies, I worked as an intern at [Institute for Softwar
 
 News and Updates
 ======
-[May 2020] Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020) 
+[May 2020] Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
 
 [April 2020] Receieved offers of admission for graduate program in Electrical and Computer Engineering from UCLA and CMU. Going to UCLA in Fall 2020! 
 
@@ -22,9 +22,9 @@ News and Updates
 
 [September 2019] Completed internship at Vanderbilt University. Presented a poster on our work during the summer. Find it [here](https://drive.google.com/open?id=147vnQdK6AmsF45kk57yyJVy2hojDD-zW)
 
-[August 2019] Graduated from [The National Institute of Engineering](https://www.nie.ac.in/) with a Bachelor's degree in Electronics and Communication Engineering
+[August 2019] Graduated from [The National Institute of Engineering](https://www.nie.ac.in/) with a Bachelor's degree in Electronics and Communication Engineering.
 
-[June 2019] Started my internship at Vanderbilt University, Nashville. Completed my college internship at Mercedes-Benz Research India
+[June 2019] Started my internship at Vanderbilt University, Nashville. Completed my college internship at Mercedes-Benz Research India.
 
 [April 2019] One among ~70 students from around the world chosen to participate in the [VUSE Summer Research Program](https://engineering.vanderbilt.edu/summer-research/index.php). Also, one of two students from India selected for the program!
 
