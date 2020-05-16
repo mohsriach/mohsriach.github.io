@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an incoming graduate student in Electrical and Computer Engineering at [Henry Samueli School of Electrical and Computer Engineering](https://www.ee.ucla.edu/), University of California Los Angeles. My research interests lie in Deep Unsupervised Learning and Reinforcement Learning. I have worked on problems in Vision, Speech and Healthcare for Machine Learning. Previously, I receieved an undergraduate degree in Electronics and Communication Engineering from [The National Institute of Engineering](https://www.nie.ac.in/).
+
+In the past, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
 
 A data-driven personal website
 ======
