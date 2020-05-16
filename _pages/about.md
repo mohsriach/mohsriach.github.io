@@ -30,14 +30,18 @@ News and Updates
 
 [April 2019] Started an internship at Mercedes-Benz Research India working on Autonomous Driving systems in the Sensor Fusion Team. 
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research interests are broadly in Deep Learning and Reinforcement Learning. I have worked on Deep Learning applications for Vision, Speech and Autonomous Driving systems previously. Currently, specific interests include : 
+1. Generative Adversarial Networks, including its optimization and stability
+2. Generative models, including VAEs for Vision
+3. Actor-Critic methods in RL and its connection to GANs
+4. Inverse RL 
+5. Imitation Learning. 
+Two questions that always intrigue me are : 
+a) Can machines intentionally make mistakes and incur no penalty? (When I lose a bet, I punch my fist at the wall, but ensure I don't hurt myself.) which explains the no penalty part. 
+b) If the answer to a) is YES, is dumbness a subset of intelligence? 
+My interests are not limited to the above and I'm open to learning/opportunities in related fields such as Computer Vision and Unsupervised Machine Learning. 
 
 Create content & metadata
 ------
