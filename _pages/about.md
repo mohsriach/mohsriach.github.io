@@ -47,15 +47,21 @@ My interests are not limited to the above and I'm open to learning/opportunities
 Selected Projects
 ------
 **SinGAN paper reproduction.** 
+
 Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage.jpg'>
 
 Investigated effects of hyperparameter tuning and change in image quality due to number of scales. Find the extended abstract [here](https://drive.google.com/file/d/1ZyK4UOg8TQQsLbBfbBLxkv45vTC60rtv/view?usp=sharing) <br/><img src='/images/collage3.jpg'>
 
 
 **DCGAN for food image generation.**
+
 Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generate novel food images. Collected about 1500 high-quality images from [Zomato] and wrote a script to adjust resolution,brightness. Used TPU credits receieved from Google during Deep Learning Indaba. Presented it as part of final year project. 
 <br/><img src='/images/zomato750results.png'>
 
+**Graduate Admissions Predictor**
+
+Built Regression models (Linear, Support Vector, Decision Trees and Random Forest) to predcit graduate admission chances. Collected a dataset of 500 samples, each consisiting of test scores, GPA, quality of SOP, LOR and undergraduate university and research potential to evaluate chances of getting into a particular university. Dataset now has over 44000 downloads and is a **Gold** dataset on Kaggle. You can find it [here](https://www.kaggle.com/mohansacharya/graduate-admissions)
+<br/><img src='kaggleadmission.png'>
 
 How to edit your site's GitHub repository
 ------
