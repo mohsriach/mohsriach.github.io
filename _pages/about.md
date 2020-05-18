@@ -14,21 +14,21 @@ During my undergraduate studies, I worked as an intern at [Institute for Softwar
 
 News and Updates
 ======
-[May 2020] Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
+**May 2020** Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
 
-[April 2020] Receieved offers of admission for graduate program in Electrical and Computer Engineering from UCLA and CMU. Going to UCLA in Fall 2020! 
+**April 2020** Receieved offers of admission for graduate program in Electrical and Computer Engineering from UCLA and CMU. Going to UCLA in Fall 2020! 
 
-[April 2020] Seeking remote internships/project assistantships for a period of 4-5 months in the areas of Deep Learning/Computer Vision. 
+**April 2020** Seeking remote internships/project assistantships for a period of 4-5 months in the areas of Deep Learning/Computer Vision. 
 
-[September 2019] Completed internship at Vanderbilt University. Presented a poster on our work during the summer. Find it [here](https://drive.google.com/open?id=147vnQdK6AmsF45kk57yyJVy2hojDD-zW)
+**September 2019** Completed internship at Vanderbilt University. Presented a poster on our work during the summer. Find it [here](https://drive.google.com/open?id=147vnQdK6AmsF45kk57yyJVy2hojDD-zW)
 
-[August 2019] Graduated from [The National Institute of Engineering](https://www.nie.ac.in/) with a Bachelor's degree in Electronics and Communication Engineering.
+**August 2019** Graduated from [The National Institute of Engineering](https://www.nie.ac.in/) with a Bachelor's degree in Electronics and Communication Engineering.
 
-[June 2019] Started my internship at Vanderbilt University, Nashville. Completed my college internship at Mercedes-Benz Research India.
+**June 2019** Started my internship at Vanderbilt University, Nashville. Completed my college internship at Mercedes-Benz Research India.
 
-[April 2019] One among ~70 students from around the world chosen to participate in the [VUSE Summer Research Program](https://engineering.vanderbilt.edu/summer-research/index.php). Also, one of two students from India selected for the program!
+**April 2019** One among ~70 students from around the world chosen to participate in the [VUSE Summer Research Program](https://engineering.vanderbilt.edu/summer-research/index.php). Also, one of two students from India selected for the program!
 
-[April 2019] Started an internship at Mercedes-Benz Research India working on Autonomous Driving systems in the Sensor Fusion Team. 
+**April 2019** Started an internship at Mercedes-Benz Research India working on Autonomous Driving systems in the Sensor Fusion Team. 
 
 Research Interests
 ======
@@ -61,7 +61,7 @@ Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generat
 **Graduate Admissions Predictor**
 
 Built Regression models (Linear, Support Vector, Decision Trees and Random Forest) to predcit graduate admission chances. Collected a dataset of 500 samples, each consisiting of test scores, GPA, quality of SOP, LOR and undergraduate university and research potential to evaluate chances of getting into a particular university. Dataset now has over 44000 downloads and is a **Gold** dataset on Kaggle. You can find it [here](https://www.kaggle.com/mohansacharya/graduate-admissions)
-<br/><img src='kaggleadmission.png'>
+<br/><img src='kaggledataset.jpg'>
 
 How to edit your site's GitHub repository
 ------
