@@ -45,7 +45,7 @@ b) If the answer to a) is YES, is dumbness a subset of intelligence?
 My interests are not limited to the above and I'm open to learning/opportunities in related fields such as Computer Vision and Unsupervised Machine Learning. 
 
 Selected Projects
-------
+======
 **SinGAN paper reproduction.** 
 
 Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage.jpg'>
@@ -63,9 +63,9 @@ Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generat
 Built Regression models (Linear, Support Vector, Decision Trees and Random Forest) to predcit graduate admission chances. Collected a dataset of 500 samples, each consisiting of test scores, GPA, quality of SOP, LOR and undergraduate university and research potential to evaluate chances of getting into a particular university. Dataset now has over 44000 downloads and is a **Gold** dataset on Kaggle. You can find it [here](https://www.kaggle.com/mohansacharya/graduate-admissions)
 <br/><img src='kaggledataset.jpg'>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpag.es.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Blogs
+======
+ 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
