@@ -61,7 +61,7 @@ Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generat
 **Graduate Admissions Predictor**
 
 Built Regression models (Linear, Support Vector, Decision Trees and Random Forest) to predcit graduate admission chances. Collected a dataset of 500 samples, each consisiting of test scores, GPA, quality of SOP, LOR and undergraduate university and research potential to evaluate chances of getting into a particular university. Dataset now has over 44000 downloads and is a **Gold** dataset on Kaggle. You can find it [here](https://www.kaggle.com/mohansacharya/graduate-admissions)
-<br/><img src=''>
+<br/><img src='kaggleadmission.png'>
 
 How to edit your site's GitHub repository
 ------
