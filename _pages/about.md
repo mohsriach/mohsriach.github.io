@@ -46,13 +46,13 @@ My interests are not limited to the above and I'm open to learning/opportunities
 
 Selected Projects
 ------
-**  SinGAN paper reproduction. **
+**SinGAN paper reproduction.** 
 Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage.jpg'>
 
 Investigated effects of hyperparameter tuning and change in image quality due to number of scales. Find the extended abstract [here](https://drive.google.com/file/d/1ZyK4UOg8TQQsLbBfbBLxkv45vTC60rtv/view?usp=sharing) <br/><img src='/images/collage3.jpg'>
 
 
-** DCGAN for food image generation. **
+**DCGAN for food image generation.**
 Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generate novel food images. Collected about 1500 high-quality images from [Zomato] and wrote a script to adjust resolution,brightness. Used TPU credits receieved from Google during Deep Learning Indaba. Presented it as part of final year project. 
 <br/><img src='/images/zomato750results.png'>
 
