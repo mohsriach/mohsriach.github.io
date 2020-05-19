@@ -61,7 +61,12 @@ Implemented Deep Convolutional Generative Adversarial Network (DCGAN) to generat
 **Graduate Admissions Predictor**
 
 Built Regression models (Linear, Support Vector, Decision Trees and Random Forest) to predcit graduate admission chances. Collected a dataset of 500 samples, each consisiting of test scores, GPA, quality of SOP, LOR and undergraduate university and research potential to evaluate chances of getting into a particular university. Dataset now has over 44000 downloads and is a **Gold** dataset on Kaggle. You can find it [here](https://www.kaggle.com/mohansacharya/graduate-admissions)
-<br/><img src='kaggledataset.jpg'>
+<br/><img src='/images/kaggledataset.jpg'>
+
+**Emotion Classifier using Neural Networks**
+
+Built an emotion recognition classifier using VGG-19 with pre-trained weights using the FER2013 dataset. The trained model was used to classify real-time emotions through camera with output values displayed on the terminal. Part of course project titled 'Neural Networks'.
+<br/><img src='/images/emotionrecog.jpg'>
 
 Blogs
 ======
