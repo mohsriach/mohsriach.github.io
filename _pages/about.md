@@ -48,7 +48,7 @@ Selected Projects
 ======
 **SinGAN paper reproduction.** 
 
-Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage.jpg'>
+Implemented ICCV 2019 best paper, [SinGAN](https://arxiv.org/abs/1905.01164) as part of [EEML](https://www.eeml.eu/) Summer School. <br/><img src='/images/collage1.jpg'>
 
 Investigated effects of hyperparameter tuning and change in image quality due to number of scales. Find the extended abstract [here](https://drive.google.com/file/d/1ZyK4UOg8TQQsLbBfbBLxkv45vTC60rtv/view?usp=sharing) <br/><img src='/images/collage3.jpg'>
 
