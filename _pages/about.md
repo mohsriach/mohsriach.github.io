@@ -70,8 +70,10 @@ Built an emotion recognition classifier using VGG-19 with pre-trained weights us
 
 Blogs
 ======
+ I also write articles on [Medium](https://medium.com/@mohansacharya). Please read them if you are interested in internship opportunities around the world or looking to dive into the world of Machine Learning through Summer Schools. 
+ I am writing a new series on the entire graduate application process including tips and tricks to get into a top school. Stay tuned! 
+ 
+ <br/><img src='/images/blogimage.jpg'>
  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
