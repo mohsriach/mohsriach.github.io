@@ -12,6 +12,10 @@ I am an incoming graduate student in Electrical and Computer Engineering at [Hen
 
 During my undergraduate studies, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
 
+If you have any opportunities/openings in ML and DL, kindly shoot me an email. 
+
+[Resumé/CV](https://drive.google.com/file/d/1dcLhr7-uaF8HO_CbqzfzTFGqCCaQIGmY/view?usp=sharing)
+
 News and Updates
 ======
 **May 2020** Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
