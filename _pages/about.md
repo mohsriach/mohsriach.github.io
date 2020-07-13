@@ -18,11 +18,11 @@ If you have any opportunities/openings in ML and DL, kindly shoot me an email.
 
 News and Updates
 ======
+**May 2020** Selected from a competitive pool of ~1000+ applicants to participate in [EEML 2020](http://eeml.eu/) (Eastern European Machine Learning Summer School 2020). Will be participating in the virtual event starting 1st July. 
+
 **May 2020** Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
 
-**April 2020** Receieved offers of admission for graduate program in Electrical and Computer Engineering from UCLA and CMU. Going to UCLA in Fall 2020! 
-
-**April 2020** Seeking remote internships/project assistantships for a period of 4-5 months in the areas of Deep Learning/Computer Vision. 
+**April 2020** Receieved offers of admission for graduate program in Electrical and Computer Engineering from UCLA and Carnegie Mellon University. Going to UCLA in Fall 2020! 
 
 **September 2019** Completed internship at Vanderbilt University. Presented a poster on our work during the summer. Find it [here](https://drive.google.com/open?id=147vnQdK6AmsF45kk57yyJVy2hojDD-zW)
 
