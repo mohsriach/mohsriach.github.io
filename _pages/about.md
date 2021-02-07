@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming graduate student in Electrical and Computer Engineering at [Henry Samueli School of Electrical and Computer Engineering](https://www.ee.ucla.edu/), University of California Los Angeles. My research interests lie in Deep Unsupervised Learning and Reinforcement Learning. I have worked on problems in Vision, Speech and Healthcare for Machine Learning. Previously, I receieved an undergraduate degree in Electronics and Communication Engineering from [The National Institute of Engineering](https://www.nie.ac.in/).
+I am a Graduate student in Electrical and Computer Engineering at [Henry Samueli School of Electrical and Computer Engineering](https://www.ee.ucla.edu/), University of California Los Angeles. My research interests lie in Deep Unsupervised Learning and Reinforcement Learning. I have worked on problems in Vision, Speech and Healthcare for Machine Learning. Previously, I receieved an undergraduate degree in Electronics and Communication Engineering from [The National Institute of Engineering](https://www.nie.ac.in/).
 
 During my undergraduate studies, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
 
-If you have any opportunities/openings in ML and DL, kindly shoot me an email. 
+If you have any opportunities/openings in ML and DL, kindly shoot me an [email](mohsriach@ucla.edu). 
 
-[Resumé/CV](https://drive.google.com/file/d/1dcLhr7-uaF8HO_CbqzfzTFGqCCaQIGmY/view?usp=sharing)
+[Resumé/CV](https://drive.google.com/file/d/1m0uDOOgllYw7C3sD0zAz1-9fHFuBI5yl/view?usp=sharing)
 
 News and Updates
 ======
+**Jan 2021** Attended [Mediterranean Machine Learning School](https://www.m2lschool.org/) (M2L School) with lectures based on Generative Models, Reinforcement Learning. Had an interesting mentorship session with Sander Dieleman, Research Scientist at DeepMind. 
+
 **May 2020** Selected from a competitive pool of ~1000+ applicants to participate in [EEML 2020](http://eeml.eu/) (Eastern European Machine Learning Summer School 2020). Will be participating in the virtual event starting 1st July. 
 
 **May 2020** Selected from a competitive pool of ~400 applicants to participate in [LxMLS 2020](http://lxmls.it.pt/2020/) (Lisbon Machine Learning School 2020). 
