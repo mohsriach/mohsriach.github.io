@@ -12,7 +12,7 @@ I am a Graduate student in Electrical and Computer Engineering at [Henry Samueli
 
 During my undergraduate studies, I worked as an intern at [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), Vanderbilt University and [Mercedes-Benz Research & Development India](https://mbrdi.co.in/about-us/).
 
-If you have any opportunities/openings in ML and DL, kindly shoot me an [email](mohsriach@ucla.edu). 
+If you have any opportunities/openings in ML and DL, kindly shoot me an [email](mailto:mohsriach@ucla.edu). 
 
 [Resumé/CV](https://drive.google.com/file/d/1m0uDOOgllYw7C3sD0zAz1-9fHFuBI5yl/view?usp=sharing)
 
